@@ -16,7 +16,7 @@ model = load_cnn_model()
 # Activity labels
 LABELS = ['WALKING', 'WALKING_UPSTAIRS', 'WALKING_DOWNSTAIRS', 'SITTING', 'STANDING', 'LAYING']
 
-st.title("HAR Prediction using 1D CNN")
+st.title("HAR Prediction using 2D CNN")
 st.write("Upload a CSV file with 128 timesteps x 9 features for one sample.")
 
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
