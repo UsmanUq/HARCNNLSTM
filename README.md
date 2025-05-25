@@ -3,7 +3,7 @@
 
 # Human Activity Recognition (HAR) using 2D CNN
 
-This project implements a Human Activity Recognition (HAR) system using a **2D Convolutional Neural Network (CNN)** trained on the UCI HAR dataset. The trained model is deployed using **Streamlit**, allowing users to upload a `.csv` or `.txt` file representing a single activity sample to receive a predicted activity label.
+This project implements a Human Activity Recognition (HAR) system using a **2D Convolutional Neural Network (CNN)** trained on the UCI HAR dataset. The trained model is deployed using **Streamlit**, allowing users to upload a `.csv` file representing a single activity sample to receive a predicted activity label.
 
 ## Features
 
